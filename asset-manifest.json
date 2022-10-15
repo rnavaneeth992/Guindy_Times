@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/guindy_times_task/static/css/main.08093ce0.css",
+    "main.js": "/guindy_times_task/static/js/main.a316b7a3.js",
+    "index.html": "/guindy_times_task/index.html",
+    "main.08093ce0.css.map": "/guindy_times_task/static/css/main.08093ce0.css.map",
+    "main.a316b7a3.js.map": "/guindy_times_task/static/js/main.a316b7a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08093ce0.css",
+    "static/js/main.a316b7a3.js"
+  ]
+}
